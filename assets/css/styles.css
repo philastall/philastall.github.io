@@ -212,7 +212,7 @@ hr {
 }
 
 .home-bg {
-    background: url("../img/bg_pattern.png") repeat scroll 0 0 rgba(33, 39, 57, 0.5);
+    background: repeat scroll 0 0 rgba(33, 39, 57, 0.5);
     cursor: move;
     height: 100%;
     left: 0;
